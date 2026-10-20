@@ -1,1 +1,7 @@
-# CK-DZ-1-Console-menu
+# ДЗ 1. Консольное меню
+
+Запуск:
+
+```
+node homework-1.js
+```
